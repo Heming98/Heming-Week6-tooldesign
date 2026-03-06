@@ -1,0 +1,3 @@
+# Optional: only needed to run demo.py with a real LLM (set DEEPSEEK_API_KEY or LLM_API_KEY).
+# For simulated mode, no install is required.
+openai>=1.0.0
